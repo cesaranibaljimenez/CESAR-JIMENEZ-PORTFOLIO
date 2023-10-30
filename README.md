@@ -1,2 +1,2 @@
 # CESAR-JIMENEZ-PORTFOLIO
-Archivos Front de Mi Portafolio de Proyectos
+En este repositorio se encuentran los archivos con que he construido la portadad de Mi Portafolio de Proyectos.
